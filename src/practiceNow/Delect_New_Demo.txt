@@ -1,0 +1,25 @@
+package practiceNow;
+
+import java.util.ArrayList;
+
+public class ArithmeticDemo {
+
+	int a=5;
+	int b=6;
+	int c;
+	
+	public void divideNumbers() 
+	{
+		
+		c=a+b;
+		
+	
+	
+	public static void main(String[] args) {
+		
+		ArithmeticDemo a = new ArithmeticDemo();
+		a.divideNumbers();
+		
+	}
+	
+}
